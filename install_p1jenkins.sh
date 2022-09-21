@@ -4,9 +4,6 @@
 
 echo "START - install jenkins - "
 
-echo "[1]: install utils & ansible"
-apt-get update -qq >/dev/null
-apt-get install -qq -y git sshpass wget ansible gnupg2 curl >/dev/null
 
 
 echo "[2]: install java & jenkins"
@@ -18,9 +15,6 @@ systemctl enable jenkins
 systemctl start jenkins
 
 
-echo "[3]: ansible custom"
-sed -i 's/.*pipelining.*/pipelining = True/' /etc/ansible/ansible.cfg
-sed -i 's/.*allow_world_readable_tmpfiles.*/allow_world_readable_tmpfiles = True/' /etc/ansible/ansible.cfg
 
 echo "[4]: install docker & docker-composer"
 curl -fsSL https://get.docker.com | sh; >/dev/null
@@ -28,12 +22,7 @@ usermod -aG docker jenkins # authorize docker for jenkins user
 curl -sL "https://github.com/docker/compose/releases/download/1.25.0/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose >/dev/null
 chmod +x /usr/local/bin/docker-compose 
 
-echo "[5]: use registry without ssl"
-echo "
-{
-  \"insecure-registries\" : [\"192.168.0.5:5000\"]
-}
-" >/etc/docker/daemon.json
+
 systemctl daemon-reload
 systemctl restart docker
 
