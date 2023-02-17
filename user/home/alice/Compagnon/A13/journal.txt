@@ -1,0 +1,1233 @@
+-rw-rw-r--  1 alice  user  171 Nov  3 16:07 bashrc
+
+Compagnon:
+total 0
+drwxrwxr-x   4 alice  user  128 Nov  3 16:10 A13
+drwxrwxr-x  17 alice  user  544 Nov  3 16:06 A22
+drwxrwxr-x   4 alice  user  128 Nov  3 16:06 A33
+
+Compagnon/A13:
+total 0
+drwxrwxr-x  5 alice  user  160 Nov  3 16:06 Documents
+
+Compagnon/A13/Documents:
+total 16
+drwxrwxr-x  3 alice  user    96 Nov  3 16:06 cv
+-rw-rw-r--  1 alice  user   428 Nov  3 16:06 detail-alice.txt
+-rw-rw-r--  1 alice  user  1645 Nov  3 16:06 liste-etudiant.txt
+
+Compagnon/A13/Documents/cv:
+total 8
+-rw-rw-r--  1 alice  user  689 Nov  3 16:06 tom
+
+Compagnon/A22:
+total 32
+-rw-rw-r--  1 alice  user     0 Nov  3 16:06 fic1.txt
+-rw-rw-r--  1 alice  user     0 Nov  3 16:06 fic2.txt
+-rw-rw-r--  1 alice  user     0 Nov  3 16:06 fichier
+-rw-rw-r--  1 alice  user     0 Nov  3 16:06 fier
+-rw-rw-r--  1 alice  user     0 Nov  3 16:06 figuier
+-rw-rw-r--  1 alice  user     0 Nov  3 16:06 file
+-rw-rw-r--  1 alice  user     0 Nov  3 16:06 filer
+-rw-rw-r--  1 alice  user     4 Nov  3 16:06 fin
+-rw-rw-r--  1 alice  user     0 Nov  3 16:06 ile
+-rw-rw-r--  1 alice  user     0 Nov  3 16:06 indestructible
+-rw-rw-r--  1 alice  user   446 Nov  3 16:06 lipsum.txt
+-rw-rw-r--  1 alice  user  3593 Nov  3 16:06 lorem.txt
+-rw-rw-r--  1 alice  user     6 Nov  3 16:06 male
+-rw-rw-r--  1 alice  user     0 Nov  3 16:06 miles
+-rw-rw-r--  1 alice  user     0 Nov  3 16:06 pale
+
+Compagnon/A33:
+total 16
+-rw-rw-r--  1 alice  user  3024 Nov  3 16:06 fichier1.txt
+-rw-rw-r--  1 alice  user  2155 Nov  3 16:06 fichier2.txt
+
+Devoirs:
+total 0
+drwxrwxr-x  10 alice  user  320 Nov  3 16:17 Sequence2
+
+Devoirs/Sequence2:
+total 0
+-rw-rw-r--  1 alice  user  0 Nov  3 16:17 X
+-rw-rw-r--  1 alice  user  0 Nov  3 16:17 Xa
+-rw-rw-r--  1 alice  user  0 Nov  3 16:17 Xaaa
+-rw-rw-r--  1 alice  user  0 Nov  3 16:17 Xaxxxb
+-rw-rw-r--  1 alice  user  0 Nov  3 16:17 Xbb
+-rw-rw-r--  1 alice  user  0 Nov  3 16:17 Xxxxx
+-rw-rw-r--  1 alice  user  0 Nov  3 16:17 Xyzax
+-rw-rw-r--  1 alice  user  0 Nov  3 16:17 aaXxy
+
+Sequence1:
+total 0
+drwxrwxr-x  3 alice  user   96 Nov  3 16:06 A14
+drwxrwxr-x  4 alice  user  128 Nov  3 16:06 A15
+
+Sequence1/A14:
+total 8
+-rw-rw-r--  1 alice  user  1894 Nov  3 16:06 a14.sh
+
+Sequence1/A15:
+total 16
+-rw-rw-r--  1 alice  user   417 Nov  3 16:06 attestation.txt
+-rw-rw-r--  1 alice  user  3820 Nov  3 16:06 liste-mooc.txt
+
+Sequence2:
+total 0
+drwxrwxr-x  6 alice  user  192 Nov  3 16:06 A21
+drwxr-xr-x@ 5 alice  user  160 Nov  3 13:49 A22
+drwxrwxr-x  5 alice  user  160 Nov  3 16:06 A23
+drwxrwxr-x  5 alice  user  160 Jan 23 13:24 A24
+drwxrwxr-x  3 alice  user   96 Nov  3 16:06 A25
+
+Sequence2/A21:
+total 8
+-rw-rw-r--  1 alice  user  2344 Nov  3 16:06 hista21.txt
+
+Sequence2/A22:
+total 0
+drwxr-xr-x@ 163 alice  user  5216 Dec  9  2019 Images
+drwxr-xr-x@   7 alice  user   224 Dec  9  2019 c221
+
+Sequence2/A22/Images:
+total 0
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 059a3c97.raw
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 0b578ccb.png
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 0ff760b8.png
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 13a50c2b.raw
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 17785a73.png
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 181bf2a0.jpg
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 18d6e406.png
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 1b386417.jpg
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 20991190.raw
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 2929901e.raw
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 35cddc47.jpg
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 422b15d8.gif
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 43e5e0b6.jpg
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 500240c8.jpg
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 53eff3e8.raw
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 59247eef.raw
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 5979a5d4.png
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 5a612f4e.png
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 673d6a73.raw
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 68d24aa6.gif
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 6e172c3d.gif
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 74a8ce09.gif
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 7aa59b2b.raw
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 7ed25142.gif
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 80fe5f33.gif
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 84585de1.png
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 8468110b.jpg
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 8640fb00.gif
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 866381d3.jpg
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 8caac3e3.gif
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 93c94b8d.raw
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 994d898f.png
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 9e67f197.png
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 a1824630.jpg
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 a2192971.jpg
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 a704be24.gif
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 a81dd3fe.raw
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 ab1015.gif
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 ab10237.raw
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 ab10300.raw
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 ab10431.jpg
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 ab10674.jpg
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 ab11513.png
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 ab11852.jpg
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 ab12154.gif
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 ab12370.png
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 ab12536.jpg
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 ab12627.gif
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 ab13266.raw
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 ab13966.png
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 ab14737.png
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 ab14889.gif
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 ab16014.gif
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 ab16527.png
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 ab16839.raw
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 ab17067.gif
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 ab17130.jpg
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 ab1733.jpg
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 ab17451.png
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 ab17850.png
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 ab18305.raw
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 ab19015.png
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 ab19815.jpg
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 ab20928.raw
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 ab21178.raw
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 ab21364.png
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 ab22380.png
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 ab22992.gif
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 ab23119.gif
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 ab23248.raw
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 ab23549.raw
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 ab23651.png
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 ab23788.raw
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 ab2455.png
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 ab24854.raw
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 ab25774.gif
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 ab26137.raw
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 ab26531.raw
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 ab26677.png
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 ab2668.gif
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 ab26990.raw
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 ab27262.png
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 ab27314.jpg
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 ab27742.gif
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 ab2789.raw
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 ab29187.jpg
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 ab31131.raw
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 ab3885.jpg
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 ab5066.gif
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 ab6035.gif
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 ab747.raw
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 ab8853.png
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 ab9532.jpg
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 ab9693.jpg
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 ada8c807.jpg
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 adcfb23f.png
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 b34777ec.png
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 b4f1bcfb.png
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 bce66e2f.png
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 c5e3b857.raw
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 c7509eda.raw
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 c82083f9.gif
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 ccb526ba.raw
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 dc65a71a.jpg
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 dd16fea8.png
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 e76659ff.jpg
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 eed95a69.raw
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 f41c3029.jpg
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 xyz10575.png
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 xyz10777.gif
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 xyz11784.gif
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 xyz13418.raw
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 xyz13476.jpg
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 xyz13493.png
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 xyz14288.gif
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 xyz14401.raw
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 xyz14422.raw
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 xyz16027.raw
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 xyz16218.gif
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 xyz16272.jpg
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 xyz1658.png
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 xyz17548.raw
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 xyz18684.gif
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 xyz18801.png
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 xyz1884.jpg
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 xyz19425.png
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 xyz19630.png
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 xyz20060.gif
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 xyz20234.png
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 xyz21359.png
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 xyz2393.gif
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 xyz24281.jpg
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 xyz24605.jpg
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 xyz25865.png
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 xyz25961.raw
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 xyz26103.jpg
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 xyz26462.raw
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 xyz27853.jpg
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 xyz27995.raw
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 xyz2806.png
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 xyz2821.jpg
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 xyz283.gif
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 xyz28635.jpg
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 xyz29571.jpg
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 xyz29887.png
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 xyz30269.raw
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 xyz30335.png
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 xyz31208.gif
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 xyz3132.jpg
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 xyz31789.raw
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 xyz32281.raw
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 xyz32406.jpg
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 xyz32459.jpg
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 xyz3252.raw
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 xyz3863.gif
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 xyz4437.png
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 xyz4795.png
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 xyz4919.jpg
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 xyz7214.raw
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 xyz8286.raw
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 xyz8632.jpg
+
+Sequence2/A22/c221:
+total 0
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 ortie
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 profil
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 progress
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 root22
+-rwxr-xr-x@ 1 alice  user  0 Dec  9  2019 toto.tar
+
+Sequence2/A23:
+total 8
+-rw-rw-r--  1 alice  user  2 Nov  3 16:06 b
+-rw-rw-r--  1 alice  user  0 Nov  3 16:06 liste
+-rw-rw-r--  1 alice  user  0 Nov  3 16:06 liste de noel.txt
+
+Sequence2/A24:
+total 24
+-rwxrwxr-x  1 alice  user  287 Nov  3 16:06 c24q1.sh
+-rwxrwxr-x  1 alice  user  380 Nov  3 16:06 c24q3.sh
+-rwxr-xr-x@ 1 alice  user   61 Nov  3 17:44 macmd
+
+Sequence2/A25:
+total 8
+-rw-rw-r--  1 alice  user  350 Nov  3 16:06 lipsum.txt
+
+Sequence3:
+total 0
+drwxrwxr-x   4 alice  user  128 Nov  3 16:11 A31
+drwxrwxr-x   4 alice  user  128 Nov  3 16:06 A34
+drwxrwxr-x  12 alice  user  384 Nov  3 16:06 imdb
+
+Sequence3/A31:
+total 0
+drwxrwxr-x  32 alice  user  1024 Nov  3 16:06 Movies
+
+Sequence3/A31/Movies:
+total 240
+-rw-rw-r--  1 alice  user  177 Nov  3 16:06 my_movie_224DdbDd.mkv.bz2
+-rw-rw-r--  1 alice  user  112 Nov  3 16:06 my_movie_231C23BC.mkv.bz2
+-rw-rw-r--  1 alice  user  561 Nov  3 16:06 my_movie_233AcD13.mkv.bz2
+-rw-rw-r--  1 alice  user  690 Nov  3 16:06 my_movie_2BdBa2dB.mkv.bz2
+-rw-rw-r--  1 alice  user  722 Nov  3 16:06 my_movie_2DBBdc43.mkv.bz2
+-rw-rw-r--  1 alice  user  497 Nov  3 16:06 my_movie_32AA1abd.mkv.bz2
+-rw-rw-r--  1 alice  user  914 Nov  3 16:06 my_movie_3ABC1Cc1.mkv.bz2
+-rw-rw-r--  1 alice  user  721 Nov  3 16:06 my_movie_3aD12a24.mkv.bz2
+-rw-rw-r--  1 alice  user  658 Nov  3 16:06 my_movie_AAa2C3AB.mkv.bz2
+-rw-rw-r--  1 alice  user  112 Nov  3 16:06 my_movie_ADB2BdbB.mkv.bz2
+-rw-rw-r--  1 alice  user  657 Nov  3 16:06 my_movie_BBaA3C2d.mkv.bz2
+-rw-rw-r--  1 alice  user  626 Nov  3 16:06 my_movie_C2B324cB.mkv.bz2
+-rw-rw-r--  1 alice  user  337 Nov  3 16:06 my_movie_C41d4cAc.mkv.bz2
+-rw-rw-r--  1 alice  user  434 Nov  3 16:06 my_movie_CB3BACA2.mkv.bz2
+-rw-rw-r--  1 alice  user  401 Nov  3 16:06 my_movie_Ccda4bA2.mkv.bz2
+-rw-rw-r--  1 alice  user  401 Nov  3 16:06 my_movie_Cd41bB2A.mkv.bz2
+-rw-rw-r--  1 alice  user  528 Nov  3 16:06 my_movie_DB1Da2c1.mkv.bz2
+-rw-rw-r--  1 alice  user  591 Nov  3 16:06 my_movie_aC12ACdc.mkv.bz2
+-rw-rw-r--  1 alice  user  338 Nov  3 16:06 my_movie_ab2aa1A1.mkv.bz2
+-rw-rw-r--  1 alice  user  337 Nov  3 16:06 my_movie_b1D2A41A.mkv.bz2
+-rw-rw-r--  1 alice  user  879 Nov  3 16:06 my_movie_bA3cDD41.mkv.bz2
+-rw-rw-r--  1 alice  user  656 Nov  3 16:06 my_movie_c1A1ca3D.mkv.bz2
+-rw-rw-r--  1 alice  user  558 Nov  3 16:06 my_movie_c2aCC4Db.mkv.bz2
+-rw-rw-r--  1 alice  user  657 Nov  3 16:06 my_movie_c4cdD1DD.mkv.bz2
+-rw-rw-r--  1 alice  user  242 Nov  3 16:06 my_movie_cDD3Cdcd.mkv.bz2
+-rw-rw-r--  1 alice  user  530 Nov  3 16:06 my_movie_cb3234aa.mkv.bz2
+-rw-rw-r--  1 alice  user  786 Nov  3 16:06 my_movie_ccAbc43b.mkv.bz2
+-rw-rw-r--  1 alice  user  464 Nov  3 16:06 my_movie_d1A24ACB.mkv.bz2
+-rw-rw-r--  1 alice  user  594 Nov  3 16:06 my_movie_dC1dB2AA.mkv.bz2
+-rw-rw-r--  1 alice  user  914 Nov  3 16:06 my_movie_daaaACCC.mkv.bz2
+
+Sequence3/A34:
+total 16
+-rw-rw-r--  1 alice  user  3870 Nov  3 16:06 number.txt
+-rw-rw-r--  1 alice  user     8 Nov  3 16:06 truc.txt
+
+Sequence3/imdb:
+total 0
+drwxrwxr-x  4 alice  user  128 Nov  3 16:06 elle
+drwxrwxr-x  4 alice  user  128 Nov  3 16:06 gq
+drwxrwxr-x  4 alice  user  128 Nov  3 16:06 hollywood
+drwxrwxr-x  4 alice  user  128 Nov  3 16:06 instyle
+drwxrwxr-x  4 alice  user  128 Nov  3 16:06 people
+drwxrwxr-x  5 alice  user  160 Nov  3 16:06 rollingstone
+drwxrwxr-x  4 alice  user  128 Nov  3 16:06 times
+drwxrwxr-x  4 alice  user  128 Nov  3 16:06 usweekly
+drwxrwxr-x  4 alice  user  128 Nov  3 16:06 vanity
+drwxrwxr-x  4 alice  user  128 Nov  3 16:06 vogue
+
+Sequence3/imdb/elle:
+total 0
+drwxrwxr-x   3 alice  user    96 Nov  3 16:06 notes
+drwxrwxr-x  83 alice  user  2656 Nov  3 16:06 photos
+
+Sequence3/imdb/elle/notes:
+total 8
+-rw-rw-r--  1 alice  user  1211 Nov  3 16:06 actress.csv
+
+Sequence3/imdb/elle/photos:
+total 696
+-rw-rw-r--  1 alice  user  3823 Nov  3 16:06 Amber_Heard.png
+-rw-rw-r--  1 alice  user  3104 Nov  3 16:06 Amy_Adams.png
+-rw-rw-r--  1 alice  user  1843 Nov  3 16:06 Annette_Bening.png
+-rw-rw-r--  1 alice  user  3643 Nov  3 16:06 Ashley_Wood.png
+-rw-rw-r--  1 alice  user  3717 Nov  3 16:06 Audrey_Hepburn.png
+-rw-rw-r--  1 alice  user  2374 Nov  3 16:06 Ava_Gardner.png
+-rw-rw-r--  1 alice  user  4141 Nov  3 16:06 Cameron_Diaz.png
+-rw-rw-r--  1 alice  user  1065 Nov  3 16:06 Cara_Delevingne.png
+-rw-rw-r--  1 alice  user  3838 Nov  3 16:06 Cate_Blanchett.png
+-rw-rw-r--  1 alice  user  2754 Nov  3 16:06 Catherine_Zeta-Jones.png
+-rw-rw-r--  1 alice  user  3396 Nov  3 16:06 Claudette_Colbert.png
+-rw-rw-r--  1 alice  user  1263 Nov  3 16:06 Claudia_Cardinale.png
+-rw-rw-r--  1 alice  user  2472 Nov  3 16:06 Daryl_Hannah.png
+-rw-rw-r--  1 alice  user  2186 Nov  3 16:06 Deborah_Kerr.png
+-rw-rw-r--  1 alice  user   404 Nov  3 16:06 Demi_Moore.png
+-rw-rw-r--  1 alice  user  1285 Nov  3 16:06 Diane_Keaton.png
+-rw-rw-r--  1 alice  user  1531 Nov  3 16:06 Dianne_Wiest.png
+-rw-rw-r--  1 alice  user  3748 Nov  3 16:06 Elizabeth_Olsen.png
+-rw-rw-r--  1 alice  user   746 Nov  3 16:06 Elizabeth_Taylor.png
+-rw-rw-r--  1 alice  user   901 Nov  3 16:06 Elle_Fanning.png
+-rw-rw-r--  1 alice  user  2692 Nov  3 16:06 Ellen_Page.png
+-rw-rw-r--  1 alice  user  1652 Nov  3 16:06 Elsa_Pataky.png
+-rw-rw-r--  1 alice  user  2532 Nov  3 16:06 Emma_Roberts.png
+-rw-rw-r--  1 alice  user  3851 Nov  3 16:06 Faye_Dunaway.png
+-rw-rw-r--  1 alice  user  2577 Nov  3 16:06 Gal_Gadot.png
+-rw-rw-r--  1 alice  user  2971 Nov  3 16:06 Gemma_Arterton.png
+-rw-rw-r--  1 alice  user  1247 Nov  3 16:06 Glenn_Close.png
+-rw-rw-r--  1 alice  user  1530 Nov  3 16:06 Gloria_Swanson.png
+-rw-rw-r--  1 alice  user  3373 Nov  3 16:06 Grace_Kelly.png
+-rw-rw-r--  1 alice  user  1486 Nov  3 16:06 Helen_Hunt.png
+-rw-rw-r--  1 alice  user  2413 Nov  3 16:06 Helen_Mirren.png
+-rw-rw-r--  1 alice  user  1326 Nov  3 16:06 Hillary_Swank.png
+-rw-rw-r--  1 alice  user  2157 Nov  3 16:06 Holly_Hunter.png
+-rw-rw-r--  1 alice  user  2283 Nov  3 16:06 Ingrid_Bergman.png
+-rw-rw-r--  1 alice  user   715 Nov  3 16:06 Jane_Fonda.png
+-rw-rw-r--  1 alice  user  2796 Nov  3 16:06 Jennifer_Connelly.png
+-rw-rw-r--  1 alice  user  1120 Nov  3 16:06 Jennifer_Garner.png
+-rw-rw-r--  1 alice  user  1340 Nov  3 16:06 Jennifer_Hudson.png
+-rw-rw-r--  1 alice  user  2094 Nov  3 16:06 Jessica_Alba.png
+-rw-rw-r--  1 alice  user  2301 Nov  3 16:06 Jessica_Lange.png
+-rw-rw-r--  1 alice  user  1911 Nov  3 16:06 Joan_Crawford.png
+-rw-rw-r--  1 alice  user  2278 Nov  3 16:06 Joan_Cusack.png
+-rw-rw-r--  1 alice  user  3068 Nov  3 16:06 Jodie_Foster.png
+-rw-rw-r--  1 alice  user  2336 Nov  3 16:06 Judy_Garland.png
+-rw-rw-r--  1 alice  user  4579 Nov  3 16:06 Julia_Roberts.png
+-rw-rw-r--  1 alice  user  3945 Nov  3 16:06 Julie_Andrews.png
+-rw-rw-r--  1 alice  user  2624 Nov  3 16:06 Julie_Christie.png
+-rw-rw-r--  1 alice  user  1923 Nov  3 16:06 Juliette_Binoche.png
+-rw-rw-r--  1 alice  user  4716 Nov  3 16:06 Kacey_Clarke.png
+-rw-rw-r--  1 alice  user  1152 Nov  3 16:06 Kate_Beckinsale.png
+-rw-rw-r--  1 alice  user   379 Nov  3 16:06 Kate_Hudson.png
+-rw-rw-r--  1 alice  user  1050 Nov  3 16:06 Kate_Winslet.png
+-rw-rw-r--  1 alice  user  1426 Nov  3 16:06 Keira_Knightley.png
+-rw-rw-r--  1 alice  user  2268 Nov  3 16:06 Liza_Minnelli.png
+-rw-rw-r--  1 alice  user   532 Nov  3 16:06 Luise_Rainer.png
+-rw-rw-r--  1 alice  user  1178 Nov  3 16:06 Maggie_Smith.png
+-rw-rw-r--  1 alice  user  3544 Nov  3 16:06 Margot_Robbie.png
+-rw-rw-r--  1 alice  user   548 Nov  3 16:06 Marilyn_Monroe.png
+-rw-rw-r--  1 alice  user  4103 Nov  3 16:06 Marion_Cotillard.png
+-rw-rw-r--  1 alice  user   995 Nov  3 16:06 Marisa_Tomei.png
+-rw-rw-r--  1 alice  user  2250 Nov  3 16:06 Meg_Ryan.png
+-rw-rw-r--  1 alice  user   554 Nov  3 16:06 Melanie_Laurent.png
+-rw-rw-r--  1 alice  user  4103 Nov  3 16:06 Meryl_Streep.png
+-rw-rw-r--  1 alice  user   885 Nov  3 16:06 Michelle_Pfeiffer.png
+-rw-rw-r--  1 alice  user  3227 Nov  3 16:06 Michelle_Williams.png
+-rw-rw-r--  1 alice  user  1311 Nov  3 16:06 Mila_Kunis.png
+-rw-rw-r--  1 alice  user  1663 Nov  3 16:06 Monica_Bellucci.png
+-rw-rw-r--  1 alice  user   401 Nov  3 16:06 Naomi_Watts.png
+-rw-rw-r--  1 alice  user  4612 Nov  3 16:06 Natalie_Wood.png
+-rw-rw-r--  1 alice  user  3856 Nov  3 16:06 Octavia_Spencer.png
+-rw-rw-r--  1 alice  user   530 Nov  3 16:06 Renee_Russo.png
+-rw-rw-r--  1 alice  user  3327 Nov  3 16:06 Sally_Field.png
+-rw-rw-r--  1 alice  user  1527 Nov  3 16:06 Sarah_Hyland.png
+-rw-rw-r--  1 alice  user  3199 Nov  3 16:06 Sharon_Stone.png
+-rw-rw-r--  1 alice  user  1753 Nov  3 16:06 Shelley_Winters.png
+-rw-rw-r--  1 alice  user  1312 Nov  3 16:06 Shirley_MacLaine.png
+-rw-rw-r--  1 alice  user  1921 Nov  3 16:06 Sofia_Boutella.png
+-rw-rw-r--  1 alice  user  1817 Nov  3 16:06 Sophia_Loren.png
+-rw-rw-r--  1 alice  user  1000 Nov  3 16:06 Susan_Sarandon.png
+-rw-rw-r--  1 alice  user  1139 Nov  3 16:06 Uma_Thurman.png
+-rw-rw-r--  1 alice  user   464 Nov  3 16:06 Winona_Ryder.png
+
+Sequence3/imdb/gq:
+total 0
+drwxrwxr-x   3 alice  user    96 Nov  3 16:06 notes
+drwxrwxr-x  52 alice  user  1664 Nov  3 16:06 photos
+
+Sequence3/imdb/gq/notes:
+total 8
+-rw-rw-r--  1 alice  user  678 Nov  3 16:06 actress.csv
+
+Sequence3/imdb/gq/photos:
+total 440
+-rw-rw-r--  1 alice  user  4121 Nov  3 16:06 Amber_Heard.png
+-rw-rw-r--  1 alice  user  1923 Nov  3 16:06 Amy_Adams.png
+-rw-rw-r--  1 alice  user  2459 Nov  3 16:06 Anne_Hathaway.png
+-rw-rw-r--  1 alice  user  3848 Nov  3 16:06 Ashley_Wood.png
+-rw-rw-r--  1 alice  user   581 Nov  3 16:06 Barbara_Streisand.png
+-rw-rw-r--  1 alice  user  2134 Nov  3 16:06 Cara_Delevingne.png
+-rw-rw-r--  1 alice  user  1054 Nov  3 16:06 Catherine_Zeta-Jones.png
+-rw-rw-r--  1 alice  user  1102 Nov  3 16:06 Christina_Ricci.png
+-rw-rw-r--  1 alice  user   389 Nov  3 16:06 Daryl_Hannah.png
+-rw-rw-r--  1 alice  user  3048 Nov  3 16:06 Diane_Lane.png
+-rw-rw-r--  1 alice  user   410 Nov  3 16:06 Dianne_Wiest.png
+-rw-rw-r--  1 alice  user  1725 Nov  3 16:06 Donna_Reed.png
+-rw-rw-r--  1 alice  user  3000 Nov  3 16:06 Drew_Barrymore.png
+-rw-rw-r--  1 alice  user  1338 Nov  3 16:06 Glenda_Jackson.png
+-rw-rw-r--  1 alice  user   986 Nov  3 16:06 Glenn_Close.png
+-rw-rw-r--  1 alice  user  2664 Nov  3 16:06 Grace_Kelly.png
+-rw-rw-r--  1 alice  user  3730 Nov  3 16:06 Gweneth_Paltrow.png
+-rw-rw-r--  1 alice  user  3701 Nov  3 16:06 Halle_Berry.png
+-rw-rw-r--  1 alice  user   681 Nov  3 16:06 Jennifer_Connelly.png
+-rw-rw-r--  1 alice  user  3514 Nov  3 16:06 Jessica_Chastain.png
+-rw-rw-r--  1 alice  user  2244 Nov  3 16:06 Joan_Cusack.png
+-rw-rw-r--  1 alice  user  2222 Nov  3 16:06 Judy_Garland.png
+-rw-rw-r--  1 alice  user   364 Nov  3 16:06 Julianne_Moore.png
+-rw-rw-r--  1 alice  user  2328 Nov  3 16:06 Julie_Andrews.png
+-rw-rw-r--  1 alice  user  1495 Nov  3 16:06 Kate_Beckinsale.png
+-rw-rw-r--  1 alice  user  2297 Nov  3 16:06 Kate_Hudson.png
+-rw-rw-r--  1 alice  user   541 Nov  3 16:06 Kathlen_Turner.png
+-rw-rw-r--  1 alice  user  3195 Nov  3 16:06 Kim_Bassinger.png
+-rw-rw-r--  1 alice  user  2929 Nov  3 16:06 Liza_Minnelli.png
+-rw-rw-r--  1 alice  user  2120 Nov  3 16:06 Maggie_Smith.png
+-rw-rw-r--  1 alice  user  2936 Nov  3 16:06 Marilyn_Monroe.png
+-rw-rw-r--  1 alice  user  1214 Nov  3 16:06 Marisa_Tomei.png
+-rw-rw-r--  1 alice  user  3049 Nov  3 16:06 Melanie_Laurent.png
+-rw-rw-r--  1 alice  user  1818 Nov  3 16:06 Monica_Bellucci.png
+-rw-rw-r--  1 alice  user  5033 Nov  3 16:06 Naomi_Watts.png
+-rw-rw-r--  1 alice  user   327 Nov  3 16:06 Octavia_Spencer.png
+-rw-rw-r--  1 alice  user  4105 Nov  3 16:06 Rachel_McAdams.png
+-rw-rw-r--  1 alice  user  1742 Nov  3 16:06 Rachel_Weisz.png
+-rw-rw-r--  1 alice  user  3964 Nov  3 16:06 Raquel_Welch.png
+-rw-rw-r--  1 alice  user   451 Nov  3 16:06 Renee_Russo.png
+-rw-rw-r--  1 alice  user  2747 Nov  3 16:06 Renee_Zellweger.png
+-rw-rw-r--  1 alice  user  4589 Nov  3 16:06 Sally_Field.png
+-rw-rw-r--  1 alice  user  3599 Nov  3 16:06 Sandra_Bullock.png
+-rw-rw-r--  1 alice  user  1240 Nov  3 16:06 Sarah_Hyland.png
+-rw-rw-r--  1 alice  user  1114 Nov  3 16:06 Scarlett_Johansson.png
+-rw-rw-r--  1 alice  user  2308 Nov  3 16:06 Sharon_Stone.png
+-rw-rw-r--  1 alice  user  3280 Nov  3 16:06 Shelley_Winters.png
+-rw-rw-r--  1 alice  user  4380 Nov  3 16:06 Sigourney_Weaver.png
+-rw-rw-r--  1 alice  user   344 Nov  3 16:06 Tilda_Swinton.png
+-rw-rw-r--  1 alice  user   401 Nov  3 16:06 Uma_Thurman.png
+
+Sequence3/imdb/hollywood:
+total 0
+drwxrwxr-x   3 alice  user   96 Nov  3 16:06 notes
+drwxrwxr-x  10 alice  user  320 Nov  3 16:06 photos
+
+Sequence3/imdb/hollywood/notes:
+total 8
+-rw-rw-r--  1 alice  user  1638 Nov  3 16:06 actress.csv
+
+Sequence3/imdb/hollywood/photos:
+total 72
+-rw-rw-r--  1 alice  user  1069 Nov  3 16:06 Angelina_Jolie.png
+-rw-rw-r--  1 alice  user   367 Nov  3 16:06 Elle_Fanning.png
+-rw-rw-r--  1 alice  user  3490 Nov  3 16:06 Elsa_Pataky.png
+-rw-rw-r--  1 alice  user   538 Nov  3 16:06 Emma_Roberts.png
+-rw-rw-r--  1 alice  user  1338 Nov  3 16:06 Maggie_Smith.png
+-rw-rw-r--  1 alice  user  2581 Nov  3 16:06 Nicole_Kidman.png
+-rw-rw-r--  1 alice  user  4365 Nov  3 16:06 Sandra_Bullock.png
+-rw-rw-r--  1 alice  user  3266 Nov  3 16:06 Shelley_Winters.png
+
+Sequence3/imdb/instyle:
+total 0
+drwxrwxr-x    3 alice  user    96 Nov  3 16:06 notes
+drwxrwxr-x  116 alice  user  3712 Nov  3 16:06 photos
+
+Sequence3/imdb/instyle/notes:
+total 8
+-rw-rw-r--  1 alice  user  2085 Nov  3 16:06 actress.csv
+
+Sequence3/imdb/instyle/photos:
+total 952
+-rw-rw-r--  1 alice  user   477 Nov  3 16:06 Alicia_Vikander.png
+-rw-rw-r--  1 alice  user  1160 Nov  3 16:06 Amber_Heard.png
+-rw-rw-r--  1 alice  user   709 Nov  3 16:06 Amy_Adams.png
+-rw-rw-r--  1 alice  user  1319 Nov  3 16:06 Angelina_Jolie.png
+-rw-rw-r--  1 alice  user  2867 Nov  3 16:06 Anne_Hathaway.png
+-rw-rw-r--  1 alice  user  1234 Nov  3 16:06 Annette_Bening.png
+-rw-rw-r--  1 alice  user  1265 Nov  3 16:06 Ashley_Wood.png
+-rw-rw-r--  1 alice  user  2228 Nov  3 16:06 Audrey_Tautou.png
+-rw-rw-r--  1 alice  user  1288 Nov  3 16:06 Ava_Gardner.png
+-rw-rw-r--  1 alice  user  4003 Nov  3 16:06 Barbara_Streisand.png
+-rw-rw-r--  1 alice  user  4168 Nov  3 16:06 Bette_Davis.png
+-rw-rw-r--  1 alice  user  2541 Nov  3 16:06 Cameron_Diaz.png
+-rw-rw-r--  1 alice  user   566 Nov  3 16:06 Cara_Delevingne.png
+-rw-rw-r--  1 alice  user  3166 Nov  3 16:06 Cate_Blanchett.png
+-rw-rw-r--  1 alice  user  3293 Nov  3 16:06 Catherine_Zeta-Jones.png
+-rw-rw-r--  1 alice  user  2321 Nov  3 16:06 Charlize_Theron.png
+-rw-rw-r--  1 alice  user   406 Nov  3 16:06 Christina_Ricci.png
+-rw-rw-r--  1 alice  user  3389 Nov  3 16:06 Claudia_Cardinale.png
+-rw-rw-r--  1 alice  user   535 Nov  3 16:06 Daryl_Hannah.png
+-rw-rw-r--  1 alice  user  3756 Nov  3 16:06 Deborah_Kerr.png
+-rw-rw-r--  1 alice  user  2961 Nov  3 16:06 Demi_Moore.png
+-rw-rw-r--  1 alice  user  2944 Nov  3 16:06 Diane_Keaton.png
+-rw-rw-r--  1 alice  user  1937 Nov  3 16:06 Diane_Lane.png
+-rw-rw-r--  1 alice  user  3072 Nov  3 16:06 Dianne_Wiest.png
+-rw-rw-r--  1 alice  user  3448 Nov  3 16:06 Donna_Reed.png
+-rw-rw-r--  1 alice  user  2867 Nov  3 16:06 Drew_Barrymore.png
+-rw-rw-r--  1 alice  user  1153 Nov  3 16:06 Elizabeth_Olsen.png
+-rw-rw-r--  1 alice  user  2985 Nov  3 16:06 Elizabeth_Taylor.png
+-rw-rw-r--  1 alice  user  1316 Nov  3 16:06 Elle_Fanning.png
+-rw-rw-r--  1 alice  user  1671 Nov  3 16:06 Ellen_Page.png
+-rw-rw-r--  1 alice  user  1828 Nov  3 16:06 Elsa_Pataky.png
+-rw-rw-r--  1 alice  user  2090 Nov  3 16:06 Emilia_Clarke.png
+-rw-rw-r--  1 alice  user  3989 Nov  3 16:06 Emma_Roberts.png
+-rw-rw-r--  1 alice  user  3193 Nov  3 16:06 Emma_Thompson.png
+-rw-rw-r--  1 alice  user  1503 Nov  3 16:06 Faye_Dunaway.png
+-rw-rw-r--  1 alice  user  2577 Nov  3 16:06 Gal_Gadot.png
+-rw-rw-r--  1 alice  user   463 Nov  3 16:06 Geena_Davis.png
+-rw-rw-r--  1 alice  user  2320 Nov  3 16:06 Gemma_Arterton.png
+-rw-rw-r--  1 alice  user  1905 Nov  3 16:06 Glenda_Jackson.png
+-rw-rw-r--  1 alice  user   875 Nov  3 16:06 Glenn_Close.png
+-rw-rw-r--  1 alice  user   426 Nov  3 16:06 Gloria_Swanson.png
+-rw-rw-r--  1 alice  user  3840 Nov  3 16:06 Grace_Kelly.png
+-rw-rw-r--  1 alice  user  1959 Nov  3 16:06 Gweneth_Paltrow.png
+-rw-rw-r--  1 alice  user  1752 Nov  3 16:06 Halle_Berry.png
+-rw-rw-r--  1 alice  user  3012 Nov  3 16:06 Helen_Hunt.png
+-rw-rw-r--  1 alice  user  2385 Nov  3 16:06 Helen_Mirren.png
+-rw-rw-r--  1 alice  user  3182 Nov  3 16:06 Hillary_Swank.png
+-rw-rw-r--  1 alice  user   860 Nov  3 16:06 Holly_Hunter.png
+-rw-rw-r--  1 alice  user  3310 Nov  3 16:06 Ingrid_Bergman.png
+-rw-rw-r--  1 alice  user  1157 Nov  3 16:06 Jane_Fonda.png
+-rw-rw-r--  1 alice  user  2639 Nov  3 16:06 Jennifer_Aniston.png
+-rw-rw-r--  1 alice  user  3336 Nov  3 16:06 Jennifer_Connelly.png
+-rw-rw-r--  1 alice  user  2614 Nov  3 16:06 Jennifer_Garner.png
+-rw-rw-r--  1 alice  user   347 Nov  3 16:06 Jennifer_Hudson.png
+-rw-rw-r--  1 alice  user   569 Nov  3 16:06 Jennifer_Lawrence.png
+-rw-rw-r--  1 alice  user  1263 Nov  3 16:06 Jessica_Chastain.png
+-rw-rw-r--  1 alice  user  4073 Nov  3 16:06 Joan_Crawford.png
+-rw-rw-r--  1 alice  user  4261 Nov  3 16:06 Joan_Cusack.png
+-rw-rw-r--  1 alice  user  3491 Nov  3 16:06 Jodie_Foster.png
+-rw-rw-r--  1 alice  user  3480 Nov  3 16:06 Judi_Dench.png
+-rw-rw-r--  1 alice  user  3728 Nov  3 16:06 Judy_Garland.png
+-rw-rw-r--  1 alice  user  2230 Nov  3 16:06 Julia_Roberts.png
+-rw-rw-r--  1 alice  user   543 Nov  3 16:06 Julianne_Moore.png
+-rw-rw-r--  1 alice  user  3996 Nov  3 16:06 Julie_Andrews.png
+-rw-rw-r--  1 alice  user  1617 Nov  3 16:06 Julie_Christie.png
+-rw-rw-r--  1 alice  user   346 Nov  3 16:06 Juliette_Binoche.png
+-rw-rw-r--  1 alice  user  1609 Nov  3 16:06 Kacey_Clarke.png
+-rw-rw-r--  1 alice  user  1051 Nov  3 16:06 Karen_Gillan.png
+-rw-rw-r--  1 alice  user   749 Nov  3 16:06 Kate_Beckinsale.png
+-rw-rw-r--  1 alice  user   363 Nov  3 16:06 Kate_Hudson.png
+-rw-rw-r--  1 alice  user  1347 Nov  3 16:06 Kate_Winslet.png
+-rw-rw-r--  1 alice  user  1245 Nov  3 16:06 Katharine_Hepburn.png
+-rw-rw-r--  1 alice  user   429 Nov  3 16:06 Keira_Knightley.png
+-rw-rw-r--  1 alice  user  3215 Nov  3 16:06 Kim_Bassinger.png
+-rw-rw-r--  1 alice  user  1867 Nov  3 16:06 Lauren_Bacall.png
+-rw-rw-r--  1 alice  user   387 Nov  3 16:06 Liza_Minnelli.png
+-rw-rw-r--  1 alice  user   531 Nov  3 16:06 Luise_Rainer.png
+-rw-rw-r--  1 alice  user   473 Nov  3 16:06 Maggie_Smith.png
+-rw-rw-r--  1 alice  user   554 Nov  3 16:06 Margot_Robbie.png
+-rw-rw-r--  1 alice  user   554 Nov  3 16:06 Marilyn_Monroe.png
+-rw-rw-r--  1 alice  user  2501 Nov  3 16:06 Marion_Cotillard.png
+-rw-rw-r--  1 alice  user  1353 Nov  3 16:06 Marisa_Tomei.png
+-rw-rw-r--  1 alice  user  3819 Nov  3 16:06 Meg_Ryan.png
+-rw-rw-r--  1 alice  user  3541 Nov  3 16:06 Melanie_Laurent.png
+-rw-rw-r--  1 alice  user  3430 Nov  3 16:06 Meryl_Streep.png
+-rw-rw-r--  1 alice  user   927 Nov  3 16:06 Michelle_Pfeiffer.png
+-rw-rw-r--  1 alice  user   431 Nov  3 16:06 Michelle_Williams.png
+-rw-rw-r--  1 alice  user  4699 Nov  3 16:06 Mila_Kunis.png
+-rw-rw-r--  1 alice  user  2339 Nov  3 16:06 Monica_Bellucci.png
+-rw-rw-r--  1 alice  user  3826 Nov  3 16:06 Naomi_Watts.png
+-rw-rw-r--  1 alice  user  2464 Nov  3 16:06 Natalie_Wood.png
+-rw-rw-r--  1 alice  user  3370 Nov  3 16:06 Natalie_portman.png
+-rw-rw-r--  1 alice  user  2900 Nov  3 16:06 Octavia_Spencer.png
+-rw-rw-r--  1 alice  user  1505 Nov  3 16:06 Penelop_Cruz.png
+-rw-rw-r--  1 alice  user  1406 Nov  3 16:06 Rachel_McAdams.png
+-rw-rw-r--  1 alice  user  3383 Nov  3 16:06 Rachel_Weisz.png
+-rw-rw-r--  1 alice  user  1189 Nov  3 16:06 Raquel_Welch.png
+-rw-rw-r--  1 alice  user  2172 Nov  3 16:06 Renee_Russo.png
+-rw-rw-r--  1 alice  user   425 Nov  3 16:06 Renee_Zellweger.png
+-rw-rw-r--  1 alice  user  5011 Nov  3 16:06 Sally_Field.png
+-rw-rw-r--  1 alice  user  1281 Nov  3 16:06 Sandra_Bullock.png
+-rw-rw-r--  1 alice  user  2159 Nov  3 16:06 Sarah_Hyland.png
+-rw-rw-r--  1 alice  user   764 Nov  3 16:06 Scarlett_Johansson.png
+-rw-rw-r--  1 alice  user  4004 Nov  3 16:06 Sharon_Stone.png
+-rw-rw-r--  1 alice  user  2128 Nov  3 16:06 Shelley_Winters.png
+-rw-rw-r--  1 alice  user  4267 Nov  3 16:06 Shirley_MacLaine.png
+-rw-rw-r--  1 alice  user  1606 Nov  3 16:06 Sofia_Boutella.png
+-rw-rw-r--  1 alice  user  1264 Nov  3 16:06 Sophia_Loren.png
+-rw-rw-r--  1 alice  user   696 Nov  3 16:06 Thelma_Ritter.png
+-rw-rw-r--  1 alice  user  1744 Nov  3 16:06 Tilda_Swinton.png
+-rw-rw-r--  1 alice  user  2716 Nov  3 16:06 Uma_Thurman.png
+-rw-rw-r--  1 alice  user  2921 Nov  3 16:06 Viven_Leigh.png
+-rw-rw-r--  1 alice  user  1358 Nov  3 16:06 Whoopie_Goldberg.png
+-rw-rw-r--  1 alice  user  1684 Nov  3 16:06 Winona_Ryder.png
+
+Sequence3/imdb/people:
+total 0
+drwxrwxr-x    3 alice  user    96 Nov  3 16:06 notes
+drwxrwxr-x  105 alice  user  3360 Nov  3 16:06 photos
+
+Sequence3/imdb/people/notes:
+total 8
+-rw-rw-r--  1 alice  user  1992 Nov  3 16:06 actress.csv
+
+Sequence3/imdb/people/photos:
+total 912
+-rw-rw-r--  1 alice  user  1251 Nov  3 16:06 Alicia_Vikander.png
+-rw-rw-r--  1 alice  user   381 Nov  3 16:06 Amber_Heard.png
+-rw-rw-r--  1 alice  user  1300 Nov  3 16:06 Amy_Adams.png
+-rw-rw-r--  1 alice  user  3499 Nov  3 16:06 Angelina_Jolie.png
+-rw-rw-r--  1 alice  user   995 Nov  3 16:06 Anne_Hathaway.png
+-rw-rw-r--  1 alice  user  1196 Nov  3 16:06 Ashley_Wood.png
+-rw-rw-r--  1 alice  user  3143 Nov  3 16:06 Audrey_Hepburn.png
+-rw-rw-r--  1 alice  user   544 Nov  3 16:06 Audrey_Tautou.png
+-rw-rw-r--  1 alice  user  3091 Nov  3 16:06 Ava_Gardner.png
+-rw-rw-r--  1 alice  user  4032 Nov  3 16:06 Barbara_Streisand.png
+-rw-rw-r--  1 alice  user  1469 Nov  3 16:06 Bette_Davis.png
+-rw-rw-r--  1 alice  user  4009 Nov  3 16:06 Cameron_Diaz.png
+-rw-rw-r--  1 alice  user  1808 Nov  3 16:06 Cara_Delevingne.png
+-rw-rw-r--  1 alice  user   711 Nov  3 16:06 Charlize_Theron.png
+-rw-rw-r--  1 alice  user  3889 Nov  3 16:06 Christina_Ricci.png
+-rw-rw-r--  1 alice  user  3398 Nov  3 16:06 Claudia_Cardinale.png
+-rw-rw-r--  1 alice  user  2135 Nov  3 16:06 Daryl_Hannah.png
+-rw-rw-r--  1 alice  user  4086 Nov  3 16:06 Demi_Moore.png
+-rw-rw-r--  1 alice  user  3659 Nov  3 16:06 Diane_Keaton.png
+-rw-rw-r--  1 alice  user  1018 Nov  3 16:06 Diane_Lane.png
+-rw-rw-r--  1 alice  user  1374 Nov  3 16:06 Dianne_Wiest.png
+-rw-rw-r--  1 alice  user  1309 Nov  3 16:06 Donna_Reed.png
+-rw-rw-r--  1 alice  user   425 Nov  3 16:06 Drew_Barrymore.png
+-rw-rw-r--  1 alice  user  2087 Nov  3 16:06 Elizabeth_Taylor.png
+-rw-rw-r--  1 alice  user  2828 Nov  3 16:06 Elle_Fanning.png
+-rw-rw-r--  1 alice  user  1110 Nov  3 16:06 Ellen_Page.png
+-rw-rw-r--  1 alice  user  1117 Nov  3 16:06 Emilia_Clarke.png
+-rw-rw-r--  1 alice  user  4311 Nov  3 16:06 Emma_Roberts.png
+-rw-rw-r--  1 alice  user  1788 Nov  3 16:06 Emma_Thompson.png
+-rw-rw-r--  1 alice  user   374 Nov  3 16:06 Faye_Dunaway.png
+-rw-rw-r--  1 alice  user  3215 Nov  3 16:06 Gal_Gadot.png
+-rw-rw-r--  1 alice  user  2003 Nov  3 16:06 Glenda_Jackson.png
+-rw-rw-r--  1 alice  user   368 Nov  3 16:06 Glenn_Close.png
+-rw-rw-r--  1 alice  user  1867 Nov  3 16:06 Gloria_Swanson.png
+-rw-rw-r--  1 alice  user   532 Nov  3 16:06 Goldie_Hawn.png
+-rw-rw-r--  1 alice  user  4777 Nov  3 16:06 Grace_Kelly.png
+-rw-rw-r--  1 alice  user  1151 Nov  3 16:06 Greta_Garbo.png
+-rw-rw-r--  1 alice  user  4068 Nov  3 16:06 Gweneth_Paltrow.png
+-rw-rw-r--  1 alice  user  3259 Nov  3 16:06 Halle_Berry.png
+-rw-rw-r--  1 alice  user   972 Nov  3 16:06 Helen_Hunt.png
+-rw-rw-r--  1 alice  user  1732 Nov  3 16:06 Helen_Mirren.png
+-rw-rw-r--  1 alice  user  1836 Nov  3 16:06 Hillary_Swank.png
+-rw-rw-r--  1 alice  user  1067 Nov  3 16:06 Ingrid_Bergman.png
+-rw-rw-r--  1 alice  user  1054 Nov  3 16:06 Jennifer_Aniston.png
+-rw-rw-r--  1 alice  user  2813 Nov  3 16:06 Jennifer_Connelly.png
+-rw-rw-r--  1 alice  user  3409 Nov  3 16:06 Jennifer_Garner.png
+-rw-rw-r--  1 alice  user  3173 Nov  3 16:06 Jennifer_Hudson.png
+-rw-rw-r--  1 alice  user  2932 Nov  3 16:06 Jennifer_Lawrence.png
+-rw-rw-r--  1 alice  user  4160 Nov  3 16:06 Jessica_Alba.png
+-rw-rw-r--  1 alice  user   939 Nov  3 16:06 Jessica_Chastain.png
+-rw-rw-r--  1 alice  user   372 Nov  3 16:06 Jessica_Lange.png
+-rw-rw-r--  1 alice  user  1165 Nov  3 16:06 Joan_Crawford.png
+-rw-rw-r--  1 alice  user  4210 Nov  3 16:06 Joan_Cusack.png
+-rw-rw-r--  1 alice  user   814 Nov  3 16:06 Judi_Dench.png
+-rw-rw-r--  1 alice  user  1828 Nov  3 16:06 Judy_Garland.png
+-rw-rw-r--  1 alice  user  4283 Nov  3 16:06 Julia_Roberts.png
+-rw-rw-r--  1 alice  user   558 Nov  3 16:06 Julianne_Moore.png
+-rw-rw-r--  1 alice  user  3639 Nov  3 16:06 Julie_Andrews.png
+-rw-rw-r--  1 alice  user  3603 Nov  3 16:06 Julie_Christie.png
+-rw-rw-r--  1 alice  user  3311 Nov  3 16:06 Juliette_Binoche.png
+-rw-rw-r--  1 alice  user  1763 Nov  3 16:06 Kacey_Clarke.png
+-rw-rw-r--  1 alice  user  3538 Nov  3 16:06 Kate_Beckinsale.png
+-rw-rw-r--  1 alice  user  4441 Nov  3 16:06 Kate_Hudson.png
+-rw-rw-r--  1 alice  user   696 Nov  3 16:06 Kate_Winslet.png
+-rw-rw-r--  1 alice  user  2614 Nov  3 16:06 Katharine_Hepburn.png
+-rw-rw-r--  1 alice  user  3044 Nov  3 16:06 Kathlen_Turner.png
+-rw-rw-r--  1 alice  user   549 Nov  3 16:06 Keira_Knightley.png
+-rw-rw-r--  1 alice  user  1131 Nov  3 16:06 Kim_Bassinger.png
+-rw-rw-r--  1 alice  user  2784 Nov  3 16:06 Lauren_Bacall.png
+-rw-rw-r--  1 alice  user  1044 Nov  3 16:06 Luise_Rainer.png
+-rw-rw-r--  1 alice  user  4697 Nov  3 16:06 Maggie_Smith.png
+-rw-rw-r--  1 alice  user  2874 Nov  3 16:06 Margot_Robbie.png
+-rw-rw-r--  1 alice  user   551 Nov  3 16:06 Marilyn_Monroe.png
+-rw-rw-r--  1 alice  user  3393 Nov  3 16:06 Marion_Cotillard.png
+-rw-rw-r--  1 alice  user  3980 Nov  3 16:06 Meg_Ryan.png
+-rw-rw-r--  1 alice  user  3869 Nov  3 16:06 Melanie_Laurent.png
+-rw-rw-r--  1 alice  user   534 Nov  3 16:06 Meryl_Streep.png
+-rw-rw-r--  1 alice  user   371 Nov  3 16:06 Michelle_Pfeiffer.png
+-rw-rw-r--  1 alice  user  3081 Nov  3 16:06 Michelle_Williams.png
+-rw-rw-r--  1 alice  user  1176 Nov  3 16:06 Mila_Kunis.png
+-rw-rw-r--  1 alice  user  1024 Nov  3 16:06 Naomi_Watts.png
+-rw-rw-r--  1 alice  user  4169 Nov  3 16:06 Natalie_Wood.png
+-rw-rw-r--  1 alice  user  2655 Nov  3 16:06 Natalie_portman.png
+-rw-rw-r--  1 alice  user  2094 Nov  3 16:06 Nicole_Kidman.png
+-rw-rw-r--  1 alice  user   993 Nov  3 16:06 Octavia_Spencer.png
+-rw-rw-r--  1 alice  user  2574 Nov  3 16:06 Rachel_McAdams.png
+-rw-rw-r--  1 alice  user  1485 Nov  3 16:06 Rachel_Weisz.png
+-rw-rw-r--  1 alice  user  1229 Nov  3 16:06 Raquel_Welch.png
+-rw-rw-r--  1 alice  user  2516 Nov  3 16:06 Renee_Russo.png
+-rw-rw-r--  1 alice  user  1684 Nov  3 16:06 Sandra_Bullock.png
+-rw-rw-r--  1 alice  user  4170 Nov  3 16:06 Sarah_Hyland.png
+-rw-rw-r--  1 alice  user  1970 Nov  3 16:06 Scarlett_Johansson.png
+-rw-rw-r--  1 alice  user  4585 Nov  3 16:06 Shelley_Winters.png
+-rw-rw-r--  1 alice  user  3195 Nov  3 16:06 Shirley_MacLaine.png
+-rw-rw-r--  1 alice  user  4142 Nov  3 16:06 Sigourney_Weaver.png
+-rw-rw-r--  1 alice  user   365 Nov  3 16:06 Sophia_Loren.png
+-rw-rw-r--  1 alice  user  3767 Nov  3 16:06 Susan_Sarandon.png
+-rw-rw-r--  1 alice  user  2990 Nov  3 16:06 Thelma_Ritter.png
+-rw-rw-r--  1 alice  user  1132 Nov  3 16:06 Tilda_Swinton.png
+-rw-rw-r--  1 alice  user  3219 Nov  3 16:06 Uma_Thurman.png
+-rw-rw-r--  1 alice  user  1278 Nov  3 16:06 Viven_Leigh.png
+-rw-rw-r--  1 alice  user  1897 Nov  3 16:06 Whoopie_Goldberg.png
+-rw-rw-r--  1 alice  user  2453 Nov  3 16:06 Winona_Ryder.png
+
+Sequence3/imdb/rollingstone:
+total 8
+-rw-rw-r--   1 alice  user     6 Nov  3 16:06 list_photo
+drwxrwxr-x   3 alice  user    96 Nov  3 16:06 notes
+drwxrwxr-x  47 alice  user  1504 Nov  3 16:06 photos
+
+Sequence3/imdb/rollingstone/notes:
+total 8
+-rw-rw-r--  1 alice  user  1719 Nov  3 16:06 actress.csv
+
+Sequence3/imdb/rollingstone/photos:
+total 400
+-rw-rw-r--  1 alice  user  3121 Nov  3 16:06 Amy_Adams.png
+-rw-rw-r--  1 alice  user  2832 Nov  3 16:06 Anne_Hathaway.png
+-rw-rw-r--  1 alice  user   428 Nov  3 16:06 Annette_Bening.png
+-rw-rw-r--  1 alice  user  3772 Nov  3 16:06 Audrey_Hepburn.png
+-rw-rw-r--  1 alice  user  2035 Nov  3 16:06 Barbara_Streisand.png
+-rw-rw-r--  1 alice  user  1326 Nov  3 16:06 Bette_Davis.png
+-rw-rw-r--  1 alice  user  1226 Nov  3 16:06 Cameron_Diaz.png
+-rw-rw-r--  1 alice  user  1189 Nov  3 16:06 Cara_Delevingne.png
+-rw-rw-r--  1 alice  user  2352 Nov  3 16:06 Claudette_Colbert.png
+-rw-rw-r--  1 alice  user  1366 Nov  3 16:06 Claudia_Cardinale.png
+-rw-rw-r--  1 alice  user  2750 Nov  3 16:06 Diane_Lane.png
+-rw-rw-r--  1 alice  user  3768 Nov  3 16:06 Drew_Barrymore.png
+-rw-rw-r--  1 alice  user  3025 Nov  3 16:06 Elizabeth_Taylor.png
+-rw-rw-r--  1 alice  user   514 Nov  3 16:06 Elle_Fanning.png
+-rw-rw-r--  1 alice  user  3582 Nov  3 16:06 Elsa_Pataky.png
+-rw-rw-r--  1 alice  user  1945 Nov  3 16:06 Emma_Thompson.png
+-rw-rw-r--  1 alice  user   541 Nov  3 16:06 Geena_Davis.png
+-rw-rw-r--  1 alice  user  4502 Nov  3 16:06 Hillary_Swank.png
+-rw-rw-r--  1 alice  user   468 Nov  3 16:06 Jennifer_Aniston.png
+-rw-rw-r--  1 alice  user  2674 Nov  3 16:06 Jennifer_Garner.png
+-rw-rw-r--  1 alice  user   974 Nov  3 16:06 Jennifer_Lawrence.png
+-rw-rw-r--  1 alice  user  3944 Nov  3 16:06 Jessica_Chastain.png
+-rw-rw-r--  1 alice  user  2080 Nov  3 16:06 Jessica_Lange.png
+-rw-rw-r--  1 alice  user   390 Nov  3 16:06 Joan_Crawford.png
+-rw-rw-r--  1 alice  user  1048 Nov  3 16:06 Jodie_Foster.png
+-rw-rw-r--  1 alice  user  2518 Nov  3 16:06 Judi_Dench.png
+-rw-rw-r--  1 alice  user  4371 Nov  3 16:06 Julie_Christie.png
+-rw-rw-r--  1 alice  user  4272 Nov  3 16:06 Karen_Gillan.png
+-rw-rw-r--  1 alice  user  2004 Nov  3 16:06 Kate_Winslet.png
+-rw-rw-r--  1 alice  user  2644 Nov  3 16:06 Katharine_Hepburn.png
+-rw-rw-r--  1 alice  user  3542 Nov  3 16:06 Liza_Minnelli.png
+-rw-rw-r--  1 alice  user  4705 Nov  3 16:06 Maggie_Smith.png
+-rw-rw-r--  1 alice  user   421 Nov  3 16:06 Margot_Robbie.png
+-rw-rw-r--  1 alice  user  2424 Nov  3 16:06 Marisa_Tomei.png
+-rw-rw-r--  1 alice  user  2052 Nov  3 16:06 Meg_Ryan.png
+-rw-rw-r--  1 alice  user  1890 Nov  3 16:06 Mila_Kunis.png
+-rw-rw-r--  1 alice  user   653 Nov  3 16:06 Naomi_Watts.png
+-rw-rw-r--  1 alice  user  1735 Nov  3 16:06 Rachel_Weisz.png
+-rw-rw-r--  1 alice  user   466 Nov  3 16:06 Raquel_Welch.png
+-rw-rw-r--  1 alice  user  1213 Nov  3 16:06 Renee_Russo.png
+-rw-rw-r--  1 alice  user  4051 Nov  3 16:06 Shelley_Winters.png
+-rw-rw-r--  1 alice  user  1217 Nov  3 16:06 Susan_Sarandon.png
+-rw-rw-r--  1 alice  user  2716 Nov  3 16:06 Uma_Thurman.png
+-rw-rw-r--  1 alice  user  3140 Nov  3 16:06 Whoopie_Goldberg.png
+-rw-rw-r--  1 alice  user  4755 Nov  3 16:06 Winona_Ryder.png
+
+Sequence3/imdb/times:
+total 0
+drwxrwxr-x   3 alice  user    96 Nov  3 16:06 notes
+drwxrwxr-x  91 alice  user  2912 Nov  3 16:06 photos
+
+Sequence3/imdb/times/notes:
+total 8
+-rw-rw-r--  1 alice  user  45 Nov  3 16:06 actress.csv
+
+Sequence3/imdb/times/photos:
+total 768
+-rw-rw-r--  1 alice  user  1682 Nov  3 16:06 Alicia_Vikander.png
+-rw-rw-r--  1 alice  user   379 Nov  3 16:06 Amy_Adams.png
+-rw-rw-r--  1 alice  user  3774 Nov  3 16:06 Angelina_Jolie.png
+-rw-rw-r--  1 alice  user  1435 Nov  3 16:06 Anne_Hathaway.png
+-rw-rw-r--  1 alice  user  3533 Nov  3 16:06 Ashley_Wood.png
+-rw-rw-r--  1 alice  user  1180 Nov  3 16:06 Audrey_Tautou.png
+-rw-rw-r--  1 alice  user   527 Nov  3 16:06 Ava_Gardner.png
+-rw-rw-r--  1 alice  user  2458 Nov  3 16:06 Cameron_Diaz.png
+-rw-rw-r--  1 alice  user  3066 Nov  3 16:06 Cara_Delevingne.png
+-rw-rw-r--  1 alice  user  2550 Nov  3 16:06 Catherine_Zeta-Jones.png
+-rw-rw-r--  1 alice  user  1846 Nov  3 16:06 Charlize_Theron.png
+-rw-rw-r--  1 alice  user  3925 Nov  3 16:06 Christina_Ricci.png
+-rw-rw-r--  1 alice  user  3394 Nov  3 16:06 Claudette_Colbert.png
+-rw-rw-r--  1 alice  user  1950 Nov  3 16:06 Daryl_Hannah.png
+-rw-rw-r--  1 alice  user  1538 Nov  3 16:06 Deborah_Kerr.png
+-rw-rw-r--  1 alice  user  3939 Nov  3 16:06 Diane_Keaton.png
+-rw-rw-r--  1 alice  user  1086 Nov  3 16:06 Donna_Reed.png
+-rw-rw-r--  1 alice  user  3449 Nov  3 16:06 Drew_Barrymore.png
+-rw-rw-r--  1 alice  user  3314 Nov  3 16:06 Elle_Fanning.png
+-rw-rw-r--  1 alice  user  2294 Nov  3 16:06 Ellen_Page.png
+-rw-rw-r--  1 alice  user  4406 Nov  3 16:06 Elsa_Pataky.png
+-rw-rw-r--  1 alice  user  3266 Nov  3 16:06 Emilia_Clarke.png
+-rw-rw-r--  1 alice  user  1471 Nov  3 16:06 Emma_Roberts.png
+-rw-rw-r--  1 alice  user   353 Nov  3 16:06 Emma_Thompson.png
+-rw-rw-r--  1 alice  user  2835 Nov  3 16:06 Faye_Dunaway.png
+-rw-rw-r--  1 alice  user   899 Nov  3 16:06 Gal_Gadot.png
+-rw-rw-r--  1 alice  user  2609 Nov  3 16:06 Geena_Davis.png
+-rw-rw-r--  1 alice  user  2397 Nov  3 16:06 Glenn_Close.png
+-rw-rw-r--  1 alice  user  2366 Nov  3 16:06 Gloria_Swanson.png
+-rw-rw-r--  1 alice  user  1116 Nov  3 16:06 Grace_Kelly.png
+-rw-rw-r--  1 alice  user  1361 Nov  3 16:06 Greta_Garbo.png
+-rw-rw-r--  1 alice  user  4534 Nov  3 16:06 Gweneth_Paltrow.png
+-rw-rw-r--  1 alice  user  1538 Nov  3 16:06 Helen_Hunt.png
+-rw-rw-r--  1 alice  user  1282 Nov  3 16:06 Helen_Mirren.png
+-rw-rw-r--  1 alice  user  2621 Nov  3 16:06 Holly_Hunter.png
+-rw-rw-r--  1 alice  user  1318 Nov  3 16:06 Ingrid_Bergman.png
+-rw-rw-r--  1 alice  user  1714 Nov  3 16:06 Jane_Fonda.png
+-rw-rw-r--  1 alice  user  3966 Nov  3 16:06 Jennifer_Aniston.png
+-rw-rw-r--  1 alice  user  3058 Nov  3 16:06 Jennifer_Connelly.png
+-rw-rw-r--  1 alice  user  3717 Nov  3 16:06 Jennifer_Hudson.png
+-rw-rw-r--  1 alice  user  1033 Nov  3 16:06 Jennifer_Lawrence.png
+-rw-rw-r--  1 alice  user  2077 Nov  3 16:06 Jessica_Alba.png
+-rw-rw-r--  1 alice  user  2636 Nov  3 16:06 Jessica_Chastain.png
+-rw-rw-r--  1 alice  user  2851 Nov  3 16:06 Joan_Crawford.png
+-rw-rw-r--  1 alice  user  4052 Nov  3 16:06 Joan_Cusack.png
+-rw-rw-r--  1 alice  user  4216 Nov  3 16:06 Jodie_Foster.png
+-rw-rw-r--  1 alice  user  4371 Nov  3 16:06 Judi_Dench.png
+-rw-rw-r--  1 alice  user  1194 Nov  3 16:06 Juliette_Binoche.png
+-rw-rw-r--  1 alice  user  3913 Nov  3 16:06 Kacey_Clarke.png
+-rw-rw-r--  1 alice  user   534 Nov  3 16:06 Karen_Gillan.png
+-rw-rw-r--  1 alice  user  1460 Nov  3 16:06 Kate_Beckinsale.png
+-rw-rw-r--  1 alice  user  4611 Nov  3 16:06 Kate_Hudson.png
+-rw-rw-r--  1 alice  user  2049 Nov  3 16:06 Katharine_Hepburn.png
+-rw-rw-r--  1 alice  user  4030 Nov  3 16:06 Kathlen_Turner.png
+-rw-rw-r--  1 alice  user  2350 Nov  3 16:06 Keira_Knightley.png
+-rw-rw-r--  1 alice  user  1866 Nov  3 16:06 Kim_Bassinger.png
+-rw-rw-r--  1 alice  user  4026 Nov  3 16:06 Liza_Minnelli.png
+-rw-rw-r--  1 alice  user  2398 Nov  3 16:06 Luise_Rainer.png
+-rw-rw-r--  1 alice  user  1695 Nov  3 16:06 Maggie_Smith.png
+-rw-rw-r--  1 alice  user  3582 Nov  3 16:06 Margot_Robbie.png
+-rw-rw-r--  1 alice  user   418 Nov  3 16:06 Marilyn_Monroe.png
+-rw-rw-r--  1 alice  user  1625 Nov  3 16:06 Marion_Cotillard.png
+-rw-rw-r--  1 alice  user  2236 Nov  3 16:06 Meg_Ryan.png
+-rw-rw-r--  1 alice  user   372 Nov  3 16:06 Melanie_Laurent.png
+-rw-rw-r--  1 alice  user  3580 Nov  3 16:06 Michelle_Pfeiffer.png
+-rw-rw-r--  1 alice  user  3505 Nov  3 16:06 Michelle_Williams.png
+-rw-rw-r--  1 alice  user   340 Nov  3 16:06 Mila_Kunis.png
+-rw-rw-r--  1 alice  user  1283 Nov  3 16:06 Monica_Bellucci.png
+-rw-rw-r--  1 alice  user  1713 Nov  3 16:06 Naomi_Watts.png
+-rw-rw-r--  1 alice  user  1062 Nov  3 16:06 Natalie_Wood.png
+-rw-rw-r--  1 alice  user  1799 Nov  3 16:06 Nicole_Kidman.png
+-rw-rw-r--  1 alice  user  3241 Nov  3 16:06 Rachel_McAdams.png
+-rw-rw-r--  1 alice  user   460 Nov  3 16:06 Rachel_Weisz.png
+-rw-rw-r--  1 alice  user  3291 Nov  3 16:06 Raquel_Welch.png
+-rw-rw-r--  1 alice  user  1079 Nov  3 16:06 Renee_Russo.png
+-rw-rw-r--  1 alice  user  3772 Nov  3 16:06 Renee_Zellweger.png
+-rw-rw-r--  1 alice  user  1944 Nov  3 16:06 Sally_Field.png
+-rw-rw-r--  1 alice  user  1107 Nov  3 16:06 Sandra_Bullock.png
+-rw-rw-r--  1 alice  user   358 Nov  3 16:06 Sarah_Hyland.png
+-rw-rw-r--  1 alice  user   775 Nov  3 16:06 Scarlett_Johansson.png
+-rw-rw-r--  1 alice  user   996 Nov  3 16:06 Sharon_Stone.png
+-rw-rw-r--  1 alice  user  2307 Nov  3 16:06 Shelley_Winters.png
+-rw-rw-r--  1 alice  user  4479 Nov  3 16:06 Shirley_MacLaine.png
+-rw-rw-r--  1 alice  user  4614 Nov  3 16:06 Sigourney_Weaver.png
+-rw-rw-r--  1 alice  user   829 Nov  3 16:06 Sofia_Boutella.png
+-rw-rw-r--  1 alice  user  3954 Nov  3 16:06 Susan_Sarandon.png
+-rw-rw-r--  1 alice  user   913 Nov  3 16:06 Tilda_Swinton.png
+-rw-rw-r--  1 alice  user  3218 Nov  3 16:06 Uma_Thurman.png
+-rw-rw-r--  1 alice  user  1672 Nov  3 16:06 Whoopie_Goldberg.png
+
+Sequence3/imdb/usweekly:
+total 0
+drwxrwxr-x   3 alice  user    96 Nov  3 16:06 notes
+drwxrwxr-x  86 alice  user  2752 Nov  3 16:06 photos
+
+Sequence3/imdb/usweekly/notes:
+total 8
+-rw-rw-r--  1 alice  user  1424 Nov  3 16:06 actress.csv
+
+Sequence3/imdb/usweekly/photos:
+total 744
+-rw-rw-r--  1 alice  user   851 Nov  3 16:06 Amber_Heard.png
+-rw-rw-r--  1 alice  user  2270 Nov  3 16:06 Amy_Adams.png
+-rw-rw-r--  1 alice  user  1947 Nov  3 16:06 Angelina_Jolie.png
+-rw-rw-r--  1 alice  user  2324 Nov  3 16:06 Anne_Hathaway.png
+-rw-rw-r--  1 alice  user   358 Nov  3 16:06 Annette_Bening.png
+-rw-rw-r--  1 alice  user  2248 Nov  3 16:06 Ashley_Wood.png
+-rw-rw-r--  1 alice  user  2554 Nov  3 16:06 Audrey_Tautou.png
+-rw-rw-r--  1 alice  user  2497 Nov  3 16:06 Ava_Gardner.png
+-rw-rw-r--  1 alice  user  1861 Nov  3 16:06 Barbara_Streisand.png
+-rw-rw-r--  1 alice  user  1027 Nov  3 16:06 Bette_Davis.png
+-rw-rw-r--  1 alice  user  2171 Nov  3 16:06 Cameron_Diaz.png
+-rw-rw-r--  1 alice  user   563 Nov  3 16:06 Cara_Delevingne.png
+-rw-rw-r--  1 alice  user   602 Nov  3 16:06 Catherine_Zeta-Jones.png
+-rw-rw-r--  1 alice  user  4056 Nov  3 16:06 Charlize_Theron.png
+-rw-rw-r--  1 alice  user  3141 Nov  3 16:06 Christina_Ricci.png
+-rw-rw-r--  1 alice  user   387 Nov  3 16:06 Claudette_Colbert.png
+-rw-rw-r--  1 alice  user  3558 Nov  3 16:06 Claudia_Cardinale.png
+-rw-rw-r--  1 alice  user  1003 Nov  3 16:06 Daryl_Hannah.png
+-rw-rw-r--  1 alice  user  4615 Nov  3 16:06 Deborah_Kerr.png
+-rw-rw-r--  1 alice  user  1172 Nov  3 16:06 Demi_Moore.png
+-rw-rw-r--  1 alice  user  3139 Nov  3 16:06 Diane_Lane.png
+-rw-rw-r--  1 alice  user  1452 Nov  3 16:06 Elizabeth_Olsen.png
+-rw-rw-r--  1 alice  user  2698 Nov  3 16:06 Elle_Fanning.png
+-rw-rw-r--  1 alice  user  2355 Nov  3 16:06 Emma_Roberts.png
+-rw-rw-r--  1 alice  user   894 Nov  3 16:06 Gal_Gadot.png
+-rw-rw-r--  1 alice  user  2475 Nov  3 16:06 Geena_Davis.png
+-rw-rw-r--  1 alice  user   432 Nov  3 16:06 Gemma_Arterton.png
+-rw-rw-r--  1 alice  user  4165 Nov  3 16:06 Glenda_Jackson.png
+-rw-rw-r--  1 alice  user  4738 Nov  3 16:06 Gloria_Swanson.png
+-rw-rw-r--  1 alice  user  3924 Nov  3 16:06 Grace_Kelly.png
+-rw-rw-r--  1 alice  user  4274 Nov  3 16:06 Greta_Garbo.png
+-rw-rw-r--  1 alice  user  2725 Nov  3 16:06 Gweneth_Paltrow.png
+-rw-rw-r--  1 alice  user  2421 Nov  3 16:06 Halle_Berry.png
+-rw-rw-r--  1 alice  user  2707 Nov  3 16:06 Helen_Mirren.png
+-rw-rw-r--  1 alice  user  3930 Nov  3 16:06 Hillary_Swank.png
+-rw-rw-r--  1 alice  user  2049 Nov  3 16:06 Jane_Fonda.png
+-rw-rw-r--  1 alice  user  3240 Nov  3 16:06 Jennifer_Aniston.png
+-rw-rw-r--  1 alice  user  1801 Nov  3 16:06 Jennifer_Connelly.png
+-rw-rw-r--  1 alice  user  3665 Nov  3 16:06 Jennifer_Lawrence.png
+-rw-rw-r--  1 alice  user  3883 Nov  3 16:06 Jessica_Chastain.png
+-rw-rw-r--  1 alice  user   376 Nov  3 16:06 Joan_Cusack.png
+-rw-rw-r--  1 alice  user   669 Nov  3 16:06 Jodie_Foster.png
+-rw-rw-r--  1 alice  user  3590 Nov  3 16:06 Judi_Dench.png
+-rw-rw-r--  1 alice  user  3992 Nov  3 16:06 Judy_Garland.png
+-rw-rw-r--  1 alice  user  4738 Nov  3 16:06 Julie_Andrews.png
+-rw-rw-r--  1 alice  user  1567 Nov  3 16:06 Juliette_Binoche.png
+-rw-rw-r--  1 alice  user  1984 Nov  3 16:06 Kacey_Clarke.png
+-rw-rw-r--  1 alice  user  1189 Nov  3 16:06 Karen_Gillan.png
+-rw-rw-r--  1 alice  user   908 Nov  3 16:06 Kate_Beckinsale.png
+-rw-rw-r--  1 alice  user  1395 Nov  3 16:06 Kate_Hudson.png
+-rw-rw-r--  1 alice  user  1526 Nov  3 16:06 Kate_Winslet.png
+-rw-rw-r--  1 alice  user   771 Nov  3 16:06 Katharine_Hepburn.png
+-rw-rw-r--  1 alice  user  3241 Nov  3 16:06 Kathlen_Turner.png
+-rw-rw-r--  1 alice  user  4047 Nov  3 16:06 Keira_Knightley.png
+-rw-rw-r--  1 alice  user  1366 Nov  3 16:06 Kim_Bassinger.png
+-rw-rw-r--  1 alice  user  1321 Nov  3 16:06 Liza_Minnelli.png
+-rw-rw-r--  1 alice  user  1048 Nov  3 16:06 Luise_Rainer.png
+-rw-rw-r--  1 alice  user   459 Nov  3 16:06 Maggie_Smith.png
+-rw-rw-r--  1 alice  user  4023 Nov  3 16:06 Marilyn_Monroe.png
+-rw-rw-r--  1 alice  user  2193 Nov  3 16:06 Marion_Cotillard.png
+-rw-rw-r--  1 alice  user  3577 Nov  3 16:06 Marisa_Tomei.png
+-rw-rw-r--  1 alice  user  3050 Nov  3 16:06 Melanie_Laurent.png
+-rw-rw-r--  1 alice  user  1978 Nov  3 16:06 Meryl_Streep.png
+-rw-rw-r--  1 alice  user  2924 Nov  3 16:06 Michelle_Pfeiffer.png
+-rw-rw-r--  1 alice  user   361 Nov  3 16:06 Mila_Kunis.png
+-rw-rw-r--  1 alice  user   480 Nov  3 16:06 Monica_Bellucci.png
+-rw-rw-r--  1 alice  user  4030 Nov  3 16:06 Natalie_portman.png
+-rw-rw-r--  1 alice  user   382 Nov  3 16:06 Penelop_Cruz.png
+-rw-rw-r--  1 alice  user  4702 Nov  3 16:06 Rachel_Weisz.png
+-rw-rw-r--  1 alice  user  2967 Nov  3 16:06 Raquel_Welch.png
+-rw-rw-r--  1 alice  user  3333 Nov  3 16:06 Renee_Russo.png
+-rw-rw-r--  1 alice  user  3535 Nov  3 16:06 Renee_Zellweger.png
+-rw-rw-r--  1 alice  user  4219 Nov  3 16:06 Sally_Field.png
+-rw-rw-r--  1 alice  user  3858 Nov  3 16:06 Sarah_Hyland.png
+-rw-rw-r--  1 alice  user  1446 Nov  3 16:06 Sharon_Stone.png
+-rw-rw-r--  1 alice  user   327 Nov  3 16:06 Shelley_Winters.png
+-rw-rw-r--  1 alice  user  4233 Nov  3 16:06 Sofia_Boutella.png
+-rw-rw-r--  1 alice  user  4224 Nov  3 16:06 Sophia_Loren.png
+-rw-rw-r--  1 alice  user  3336 Nov  3 16:06 Thelma_Ritter.png
+-rw-rw-r--  1 alice  user  2515 Nov  3 16:06 Tilda_Swinton.png
+-rw-rw-r--  1 alice  user  1435 Nov  3 16:06 Uma_Thurman.png
+-rw-rw-r--  1 alice  user   445 Nov  3 16:06 Viven_Leigh.png
+-rw-rw-r--  1 alice  user  2075 Nov  3 16:06 Whoopie_Goldberg.png
+-rw-rw-r--  1 alice  user   561 Nov  3 16:06 Winona_Ryder.png
+
+Sequence3/imdb/vanity:
+total 0
+drwxrwxr-x    3 alice  user    96 Nov  3 16:06 notes
+drwxrwxr-x  101 alice  user  3232 Nov  3 16:06 photos
+
+Sequence3/imdb/vanity/notes:
+total 8
+-rw-rw-r--  1 alice  user  1720 Nov  3 16:06 actress.csv
+
+Sequence3/imdb/vanity/photos:
+total 864
+-rw-rw-r--  1 alice  user  1161 Nov  3 16:06 Alicia_Vikander.png
+-rw-rw-r--  1 alice  user  3955 Nov  3 16:06 Amber_Heard.png
+-rw-rw-r--  1 alice  user  2385 Nov  3 16:06 Amy_Adams.png
+-rw-rw-r--  1 alice  user   450 Nov  3 16:06 Angelina_Jolie.png
+-rw-rw-r--  1 alice  user  2143 Nov  3 16:06 Anne_Hathaway.png
+-rw-rw-r--  1 alice  user  3324 Nov  3 16:06 Annette_Bening.png
+-rw-rw-r--  1 alice  user   541 Nov  3 16:06 Ashley_Wood.png
+-rw-rw-r--  1 alice  user  2671 Nov  3 16:06 Audrey_Tautou.png
+-rw-rw-r--  1 alice  user   736 Nov  3 16:06 Ava_Gardner.png
+-rw-rw-r--  1 alice  user  2799 Nov  3 16:06 Barbara_Streisand.png
+-rw-rw-r--  1 alice  user  1105 Nov  3 16:06 Bette_Davis.png
+-rw-rw-r--  1 alice  user   327 Nov  3 16:06 Cara_Delevingne.png
+-rw-rw-r--  1 alice  user   714 Nov  3 16:06 Cate_Blanchett.png
+-rw-rw-r--  1 alice  user  1962 Nov  3 16:06 Catherine_Zeta-Jones.png
+-rw-rw-r--  1 alice  user  3921 Nov  3 16:06 Charlize_Theron.png
+-rw-rw-r--  1 alice  user  2516 Nov  3 16:06 Daryl_Hannah.png
+-rw-rw-r--  1 alice  user  4482 Nov  3 16:06 Deborah_Kerr.png
+-rw-rw-r--  1 alice  user  3950 Nov  3 16:06 Demi_Moore.png
+-rw-rw-r--  1 alice  user   391 Nov  3 16:06 Diane_Lane.png
+-rw-rw-r--  1 alice  user   399 Nov  3 16:06 Donna_Reed.png
+-rw-rw-r--  1 alice  user  1791 Nov  3 16:06 Drew_Barrymore.png
+-rw-rw-r--  1 alice  user  1452 Nov  3 16:06 Elizabeth_Olsen.png
+-rw-rw-r--  1 alice  user  2118 Nov  3 16:06 Elizabeth_Taylor.png
+-rw-rw-r--  1 alice  user  3392 Nov  3 16:06 Elle_Fanning.png
+-rw-rw-r--  1 alice  user  3911 Nov  3 16:06 Elsa_Pataky.png
+-rw-rw-r--  1 alice  user  3831 Nov  3 16:06 Emma_Roberts.png
+-rw-rw-r--  1 alice  user  2227 Nov  3 16:06 Emma_Thompson.png
+-rw-rw-r--  1 alice  user  1159 Nov  3 16:06 Faye_Dunaway.png
+-rw-rw-r--  1 alice  user  3961 Nov  3 16:06 Gal_Gadot.png
+-rw-rw-r--  1 alice  user   563 Nov  3 16:06 Gemma_Arterton.png
+-rw-rw-r--  1 alice  user  2420 Nov  3 16:06 Glenda_Jackson.png
+-rw-rw-r--  1 alice  user  3752 Nov  3 16:06 Glenn_Close.png
+-rw-rw-r--  1 alice  user  3338 Nov  3 16:06 Gloria_Swanson.png
+-rw-rw-r--  1 alice  user   536 Nov  3 16:06 Goldie_Hawn.png
+-rw-rw-r--  1 alice  user  4355 Nov  3 16:06 Grace_Kelly.png
+-rw-rw-r--  1 alice  user  1292 Nov  3 16:06 Gweneth_Paltrow.png
+-rw-rw-r--  1 alice  user  2102 Nov  3 16:06 Halle_Berry.png
+-rw-rw-r--  1 alice  user  1373 Nov  3 16:06 Helen_Hunt.png
+-rw-rw-r--  1 alice  user   843 Nov  3 16:06 Helen_Mirren.png
+-rw-rw-r--  1 alice  user  1853 Nov  3 16:06 Hillary_Swank.png
+-rw-rw-r--  1 alice  user  3605 Nov  3 16:06 Holly_Hunter.png
+-rw-rw-r--  1 alice  user  1622 Nov  3 16:06 Ingrid_Bergman.png
+-rw-rw-r--  1 alice  user  2162 Nov  3 16:06 Jane_Fonda.png
+-rw-rw-r--  1 alice  user   944 Nov  3 16:06 Jennifer_Aniston.png
+-rw-rw-r--  1 alice  user  1740 Nov  3 16:06 Jennifer_Connelly.png
+-rw-rw-r--  1 alice  user  1448 Nov  3 16:06 Jennifer_Garner.png
+-rw-rw-r--  1 alice  user  1504 Nov  3 16:06 Jennifer_Hudson.png
+-rw-rw-r--  1 alice  user  3019 Nov  3 16:06 Jennifer_Lawrence.png
+-rw-rw-r--  1 alice  user  4090 Nov  3 16:06 Jessica_Chastain.png
+-rw-rw-r--  1 alice  user  3076 Nov  3 16:06 Jessica_Lange.png
+-rw-rw-r--  1 alice  user   706 Nov  3 16:06 Joan_Crawford.png
+-rw-rw-r--  1 alice  user  4751 Nov  3 16:06 Joan_Cusack.png
+-rw-rw-r--  1 alice  user  4590 Nov  3 16:06 Judi_Dench.png
+-rw-rw-r--  1 alice  user  3421 Nov  3 16:06 Judy_Garland.png
+-rw-rw-r--  1 alice  user  2165 Nov  3 16:06 Julia_Roberts.png
+-rw-rw-r--  1 alice  user   416 Nov  3 16:06 Julie_Christie.png
+-rw-rw-r--  1 alice  user  3357 Nov  3 16:06 Kacey_Clarke.png
+-rw-rw-r--  1 alice  user  4099 Nov  3 16:06 Kate_Beckinsale.png
+-rw-rw-r--  1 alice  user   385 Nov  3 16:06 Kate_Hudson.png
+-rw-rw-r--  1 alice  user   692 Nov  3 16:06 Kate_Winslet.png
+-rw-rw-r--  1 alice  user  2615 Nov  3 16:06 Kathlen_Turner.png
+-rw-rw-r--  1 alice  user  3891 Nov  3 16:06 Keira_Knightley.png
+-rw-rw-r--  1 alice  user  3548 Nov  3 16:06 Kim_Bassinger.png
+-rw-rw-r--  1 alice  user   517 Nov  3 16:06 Lauren_Bacall.png
+-rw-rw-r--  1 alice  user  1485 Nov  3 16:06 Liza_Minnelli.png
+-rw-rw-r--  1 alice  user  3821 Nov  3 16:06 Luise_Rainer.png
+-rw-rw-r--  1 alice  user  1069 Nov  3 16:06 Maggie_Smith.png
+-rw-rw-r--  1 alice  user  1184 Nov  3 16:06 Margot_Robbie.png
+-rw-rw-r--  1 alice  user  2912 Nov  3 16:06 Marilyn_Monroe.png
+-rw-rw-r--  1 alice  user  4363 Nov  3 16:06 Marion_Cotillard.png
+-rw-rw-r--  1 alice  user  1402 Nov  3 16:06 Marisa_Tomei.png
+-rw-rw-r--  1 alice  user  2252 Nov  3 16:06 Meg_Ryan.png
+-rw-rw-r--  1 alice  user  3840 Nov  3 16:06 Melanie_Laurent.png
+-rw-rw-r--  1 alice  user   365 Nov  3 16:06 Meryl_Streep.png
+-rw-rw-r--  1 alice  user  4323 Nov  3 16:06 Michelle_Williams.png
+-rw-rw-r--  1 alice  user  3817 Nov  3 16:06 Mila_Kunis.png
+-rw-rw-r--  1 alice  user  3403 Nov  3 16:06 Monica_Bellucci.png
+-rw-rw-r--  1 alice  user  1376 Nov  3 16:06 Naomi_Watts.png
+-rw-rw-r--  1 alice  user  1916 Nov  3 16:06 Natalie_portman.png
+-rw-rw-r--  1 alice  user  1295 Nov  3 16:06 Nicole_Kidman.png
+-rw-rw-r--  1 alice  user   363 Nov  3 16:06 Octavia_Spencer.png
+-rw-rw-r--  1 alice  user  1617 Nov  3 16:06 Penelop_Cruz.png
+-rw-rw-r--  1 alice  user  2061 Nov  3 16:06 Rachel_McAdams.png
+-rw-rw-r--  1 alice  user  2679 Nov  3 16:06 Raquel_Welch.png
+-rw-rw-r--  1 alice  user  1066 Nov  3 16:06 Renee_Russo.png
+-rw-rw-r--  1 alice  user  2654 Nov  3 16:06 Renee_Zellweger.png
+-rw-rw-r--  1 alice  user  4683 Nov  3 16:06 Sally_Field.png
+-rw-rw-r--  1 alice  user   406 Nov  3 16:06 Sandra_Bullock.png
+-rw-rw-r--  1 alice  user  1603 Nov  3 16:06 Sarah_Hyland.png
+-rw-rw-r--  1 alice  user   445 Nov  3 16:06 Scarlett_Johansson.png
+-rw-rw-r--  1 alice  user  2128 Nov  3 16:06 Shelley_Winters.png
+-rw-rw-r--  1 alice  user   598 Nov  3 16:06 Shirley_MacLaine.png
+-rw-rw-r--  1 alice  user  2982 Nov  3 16:06 Sigourney_Weaver.png
+-rw-rw-r--  1 alice  user  3226 Nov  3 16:06 Sofia_Boutella.png
+-rw-rw-r--  1 alice  user  3831 Nov  3 16:06 Sophia_Loren.png
+-rw-rw-r--  1 alice  user   414 Nov  3 16:06 Susan_Sarandon.png
+-rw-rw-r--  1 alice  user  1081 Nov  3 16:06 Thelma_Ritter.png
+-rw-rw-r--  1 alice  user  3662 Nov  3 16:06 Uma_Thurman.png
+-rw-rw-r--  1 alice  user  4235 Nov  3 16:06 Winona_Ryder.png
+
+Sequence3/imdb/vogue:
+total 0
+drwxrwxr-x   3 alice  user   96 Nov  3 16:06 notes
+drwxrwxr-x  20 alice  user  640 Nov  3 16:06 photos
+
+Sequence3/imdb/vogue/notes:
+total 8
+-rw-rw-r--  1 alice  user  1121 Nov  3 16:06 actress.csv
+
+Sequence3/imdb/vogue/photos:
+total 144
+-rw-rw-r--  1 alice  user  3497 Nov  3 16:06 Amber_Heard.png
+-rw-rw-r--  1 alice  user   832 Nov  3 16:06 Bette_Davis.png
+-rw-rw-r--  1 alice  user   350 Nov  3 16:06 Cameron_Diaz.png
+-rw-rw-r--  1 alice  user  3365 Nov  3 16:06 Daryl_Hannah.png
+-rw-rw-r--  1 alice  user   527 Nov  3 16:06 Halle_Berry.png
+-rw-rw-r--  1 alice  user  2275 Nov  3 16:06 Hillary_Swank.png
+-rw-rw-r--  1 alice  user   699 Nov  3 16:06 Jennifer_Garner.png
+-rw-rw-r--  1 alice  user  2687 Nov  3 16:06 Jennifer_Lawrence.png
+-rw-rw-r--  1 alice  user  2239 Nov  3 16:06 Judi_Dench.png
+-rw-rw-r--  1 alice  user  1997 Nov  3 16:06 Judy_Garland.png
+-rw-rw-r--  1 alice  user   976 Nov  3 16:06 Katharine_Hepburn.png
+-rw-rw-r--  1 alice  user  2397 Nov  3 16:06 Luise_Rainer.png
+-rw-rw-r--  1 alice  user  1390 Nov  3 16:06 Marilyn_Monroe.png
+-rw-rw-r--  1 alice  user  2358 Nov  3 16:06 Penelop_Cruz.png
+-rw-rw-r--  1 alice  user  3448 Nov  3 16:06 Renee_Russo.png
+-rw-rw-r--  1 alice  user  2320 Nov  3 16:06 Shelley_Winters.png
+-rw-rw-r--  1 alice  user  2734 Nov  3 16:06 Sophia_Loren.png
+-rw-rw-r--  1 alice  user   383 Nov  3 16:06 Thelma_Ritter.png
+
+Sequence4:
+total 0
+drwxrwxr-x  4 alice  user  128 Feb  8 17:03 A41
+drwxr-xr-x@ 4 alice  user  128 Jan 29 10:05 A42
+drwxrwxr-x  3 alice  user   96 Jan 29 11:32 A43
+drwxrwxr-x  9 alice  user  288 Jan 31 22:57 A44
+drwxrwxr-x  6 alice  user  192 Nov  3 16:07 A45
+
+Sequence4/A41:
+total 8
+-rwxrwxr-x  1 alice  user    0 Feb  8 17:03 alea50.sh
+-rw-rw-r--  1 alice  user  443 Nov  3 16:06 tagalice-etu.sh
+
+Sequence4/A42:
+total 0
+-r--rw-r--  1 alice  user  0 Jan 29 10:05 fich1
+-rw-rw-r--  1 alice  user  0 Jan 29 10:05 fich2
+
+Sequence4/A43:
+total 8
+-rw-rw-r--  1 alice  user  364 Jan 29 11:32 testargu-etu.sh
+
+Sequence4/A44:
+total 968
+-rw-rw-r--   1 alice  user   11299 Nov  3 16:06 CSSEGISand.csv
+drwxrwxr-x  42 alice  user    1344 Nov  3 16:07 Images
+-rwxrwxr-x   1 alice  user     524 Nov  3 16:07 csvtohtml-etu.sh
+-rwxrwxr-x   1 alice  user     616 Nov  3 16:07 dostat-etu.sh
+-rwxrwxr-x   1 alice  user     434 Nov  3 16:07 tsize-etu.sh
+-rwxrwxr-x   1 alice  user     463 Jan 31 22:57 tsize.sh
+-rw-rw-r--   1 alice  user  466825 Nov  3 16:07 worldcorona.data
+
+Sequence4/A44/Images:
+total 369120
+-rw-rw-r--  1 alice  user  6221824 Nov  3 16:06 my_pictures_1d2Ba3c3.jpeg
+-rw-rw-r--  1 alice  user  3274752 Nov  3 16:07 my_pictures_1dAC3caa.jpeg
+-rw-rw-r--  1 alice  user  5579776 Nov  3 16:07 my_pictures_211a1D4c.jpeg
+-rw-rw-r--  1 alice  user  2067456 Nov  3 16:07 my_pictures_22b2AC2c.jpeg
+-rw-rw-r--  1 alice  user  4085760 Nov  3 16:07 my_pictures_23bAB3a1.jpeg
+-rw-rw-r--  1 alice  user  6670336 Nov  3 16:07 my_pictures_2D3D1aC1.jpeg
+-rw-rw-r--  1 alice  user  5393408 Nov  3 16:07 my_pictures_2ad12dD2.jpeg
+-rw-rw-r--  1 alice  user  5025792 Nov  3 16:07 my_pictures_2dcAb2cC.jpeg
+-rw-rw-r--  1 alice  user  5490688 Nov  3 16:07 my_pictures_34dAdac2.jpeg
+-rw-rw-r--  1 alice  user  6311936 Nov  3 16:07 my_pictures_3A1C34cd.jpeg
+-rw-rw-r--  1 alice  user  3388416 Nov  3 16:07 my_pictures_3CD4baaA.jpeg
+-rw-rw-r--  1 alice  user  6499328 Nov  3 16:07 my_pictures_41cdBBdA.jpeg
+-rw-rw-r--  1 alice  user  4269056 Nov  3 16:07 my_pictures_43b41D3b.jpeg
+-rw-rw-r--  1 alice  user  2595840 Nov  3 16:07 my_pictures_4AcDDbd1.jpeg
+-rw-rw-r--  1 alice  user  5936128 Nov  3 16:07 my_pictures_4d1CA3C4.jpeg
+-rw-rw-r--  1 alice  user  5213184 Nov  3 16:07 my_pictures_A3B3241D.jpeg
+-rw-rw-r--  1 alice  user  2231296 Nov  3 16:07 my_pictures_ACb4433A.jpeg
+-rw-rw-r--  1 alice  user  5611520 Nov  3 16:07 my_pictures_ADcBBbc3.jpeg
+-rw-rw-r--  1 alice  user  6623232 Nov  3 16:07 my_pictures_B3a3Db3D.jpeg
+-rw-rw-r--  1 alice  user  5199872 Nov  3 16:07 my_pictures_B3dBaaC3.jpeg
+-rw-rw-r--  1 alice  user  3220480 Nov  3 16:07 my_pictures_B4acadda.jpeg
+-rw-rw-r--  1 alice  user  6111232 Nov  3 16:07 my_pictures_BcDCA231.jpeg
+-rw-rw-r--  1 alice  user  2981888 Nov  3 16:07 my_pictures_C1BBBa3b.jpeg
+-rw-rw-r--  1 alice  user  2326528 Nov  3 16:07 my_pictures_C4bab4b3.jpeg
+-rw-rw-r--  1 alice  user  7038976 Nov  3 16:07 my_pictures_CBA2BB1C.jpeg
+-rw-rw-r--  1 alice  user  4805632 Nov  3 16:07 my_pictures_D4Aab33a.jpeg
+-rw-rw-r--  1 alice  user  2296832 Nov  3 16:07 my_pictures_D4cdAb42.jpeg
+-rw-rw-r--  1 alice  user  4472832 Nov  3 16:07 my_pictures_DCbAd3CB.jpeg
+-rw-rw-r--  1 alice  user  5134336 Nov  3 16:07 my_pictures_a2a1dABb.jpeg
+-rw-rw-r--  1 alice  user  4736000 Nov  3 16:07 my_pictures_a4DACba2.jpeg
+-rw-rw-r--  1 alice  user  4155392 Nov  3 16:07 my_pictures_aCDD2bbB.jpeg
+-rw-rw-r--  1 alice  user  6680576 Nov  3 16:07 my_pictures_aDbcD4DA.jpeg
+-rw-rw-r--  1 alice  user  6309888 Nov  3 16:07 my_pictures_bca44abb.jpeg
+-rw-rw-r--  1 alice  user  3898368 Nov  3 16:07 my_pictures_c42C21c4.jpeg
+-rw-rw-r--  1 alice  user  3973120 Nov  3 16:07 my_pictures_cDC4c4aA.jpeg
+-rw-rw-r--  1 alice  user  3411968 Nov  3 16:07 my_pictures_ccCCA42a.jpeg
+-rw-rw-r--  1 alice  user  5258240 Nov  3 16:07 my_pictures_d3ABab2d.jpeg
+-rw-rw-r--  1 alice  user  5893120 Nov  3 16:07 my_pictures_dCC2c43d.jpeg
+-rw-rw-r--  1 alice  user  3165184 Nov  3 16:07 my_pictures_dD1BBDcC.jpeg
+-rw-rw-r--  1 alice  user  5376000 Nov  3 16:07 photo identite.jpeg
+
+Sequence4/A45:
+total 32
+-rw-rw-r--  1 alice  user   884 Nov  3 16:07 numbers-1.data
+-rw-rw-r--  1 alice  user   885 Nov  3 16:07 numbers-2.data
+-rw-rw-r--  1 alice  user  1057 Nov  3 16:07 ploumploum-etu.sh
+-rw-rw-r--  1 alice  user   428 Nov  3 16:07 sum-etu.sh
